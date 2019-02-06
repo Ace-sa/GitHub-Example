@@ -13,6 +13,7 @@
 		3BDE7A79220A354100E75FC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BDE7A78220A354100E75FC1 /* Assets.xcassets */; };
 		3BDE7A7C220A354100E75FC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BDE7A7A220A354100E75FC1 /* LaunchScreen.storyboard */; };
 		3BE98460220B875E005E1AA5 /* vector___hat__tophat_by_misteraibo-d4xz37x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BE9845F220B875E005E1AA5 /* vector___hat__tophat_by_misteraibo-d4xz37x.png */; };
+		3BE98462220B8F38005E1AA5 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 3BE98461220B8F38005E1AA5 /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3BDE7A7B220A354100E75FC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3BDE7A7D220A354100E75FC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3BE9845F220B875E005E1AA5 /* vector___hat__tophat_by_misteraibo-d4xz37x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "vector___hat__tophat_by_misteraibo-d4xz37x.png"; sourceTree = "<group>"; };
+		3BE98461220B8F38005E1AA5 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		3BDE7A65220A354000E75FC1 = {
 			isa = PBXGroup;
 			children = (
+				3BE98461220B8F38005E1AA5 /* readme.md */,
 				3BDE7A70220A354000E75FC1 /* GitHub Example */,
 				3BDE7A6F220A354000E75FC1 /* Products */,
 			);
@@ -128,6 +131,7 @@
 				3BDE7A7C220A354100E75FC1 /* LaunchScreen.storyboard in Resources */,
 				3BE98460220B875E005E1AA5 /* vector___hat__tophat_by_misteraibo-d4xz37x.png in Resources */,
 				3BDE7A79220A354100E75FC1 /* Assets.xcassets in Resources */,
+				3BE98462220B8F38005E1AA5 /* readme.md in Resources */,
 				3BDE7A77220A354000E75FC1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
